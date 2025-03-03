@@ -7,25 +7,64 @@
       <Unit>
         <Filename Value="movie2script.lpr"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="-1"/>
-        <WindowIndex Value="-1"/>
-        <TopLine Value="-1"/>
-        <CursorPos X="-1" Y="-1"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="82" Y="25"/>
         <UsageCount Value="20"/>
+        <Loaded Value="True"/>
       </Unit>
       <Unit>
-        <Filename Value="unit1.pas"/>
+        <Filename Value="forms/movie2script.forms.mainform.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="Form1"/>
         <ResourceBaseClass Value="Form"/>
-        <IsVisibleTab Value="True"/>
-        <CursorPos X="33"/>
+        <UnitName Value="Movie2Script.Forms.MainForm"/>
+        <CursorPos X="3" Y="16"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit>
+      <Unit>
+        <Filename Value="core/movie2script.core.service.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Movie2Script.Core.Service"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="17" Y="18"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="core/movie2script.core.model.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Movie2Script.Core.Model"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="6" Y="18"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
     </Units>
-    <JumpHistory HistoryIndex="-1"/>
+    <JumpHistory HistoryIndex="4">
+      <Position>
+        <Filename Value="forms/movie2script.forms.mainform.pas"/>
+        <Caret Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="movie2script.lpr"/>
+        <Caret Line="11" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="forms/movie2script.forms.mainform.pas"/>
+        <Caret Line="6" Column="32"/>
+      </Position>
+      <Position>
+        <Filename Value="core/movie2script.core.service.pas"/>
+        <Caret Line="18" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="core/movie2script.core.model.pas"/>
+        <Caret Line="21"/>
+      </Position>
+    </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
       <Modes ActiveMode=""/>
