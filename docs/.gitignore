@@ -1,0 +1,8 @@
+# Ignore everything in this directory
+*.aux
+*.log
+*.out
+*.pdf
+*.gz
+# Except this file
+!.gitignore
